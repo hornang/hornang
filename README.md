@@ -13,7 +13,7 @@ These are the technologies I use a lot:
 ## 🏠 Personal Projects
 
 - Nautical vector charts: https://github.com/hornang/nautograf
-- Learning Rust: https://github.com/hornang/offsee
+- Learning Rust: https://github.com/hornang/marinas
 
 ## 🔭 On The Lookout For
 
