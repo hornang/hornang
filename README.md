@@ -17,7 +17,7 @@ These are the technologies I use a lot:
 
 ## 🔭 On The Lookout For
 
-- ⚙️  Rust projects
+- 🦀 Rust projects
 - ⚡ Microcontroller projects
 - 🏭 Industrial control systems
 - 📡 Distributed control systems
