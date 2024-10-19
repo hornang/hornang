@@ -23,3 +23,8 @@ These are the technologies I use a lot:
 - 📡 Distributed control systems
 - 🐧 Linux-based systems
 
+## 📬 How to reach me
+
+- [![Matrix](https://img.shields.io/badge/Matrix.org-@hornang-black)](https://matrix.to/#/@hornang:matrix.org)
+- [![GMail](https://img.shields.io/badge/Email-shornang@gmail.com-brown)](mailto:shornang@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stig%20Hornang-blue)](https://www.linkedin.com/in/stig-hornang/)
