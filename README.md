@@ -21,5 +21,5 @@ These are the technologies I use a lot:
 - ⚡ Microcontroller projects
 - 🏭 Industrial control systems
 - 📡 Distributed control systems
-- 🐧Linux-based systems
+- 🐧 Linux-based systems
 
