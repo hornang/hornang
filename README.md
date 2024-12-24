@@ -25,7 +25,7 @@ These are the technologies I use a lot:
 
 ## 📬 How to reach me
 
+- [![Gmail](https://img.shields.io/badge/Email-shornang@gmail.com-brown)](mailto:shornang@gmail.com)
 - [![Signal](https://img.shields.io/badge/Signal-hornang.11-3845ff)](https://signal.me/#eu/wo64Pmh1i0iZl1pfvGjCOmQYNBOXdEBUxXdKzhsu0KgNU9ziUbxMMbjNUhNsLeyh)
 - [![Matrix](https://img.shields.io/badge/Matrix.org-@hornang-black)](https://matrix.to/#/@hornang:matrix.org)
-- [![GMail](https://img.shields.io/badge/Email-shornang@gmail.com-brown)](mailto:shornang@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stig%20Hornang-blue)](https://www.linkedin.com/in/stig-hornang/)
